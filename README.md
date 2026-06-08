@@ -17,6 +17,7 @@ Este repositorio contiene el modelo completo de automatización de correos de se
 | [`secuencias/04-propuesta.md`](secuencias/04-propuesta.md) | Propuesta enviada → conseguir respuesta |
 | [`secuencias/05-negociacion.md`](secuencias/05-negociacion.md) | En negociación → cerrar |
 | [`configuracion-hubspot.md`](configuracion-hubspot.md) | Cómo configurar las secuencias en HubSpot |
+| [`contactos-por-deal.md`](contactos-por-deal.md) | Qué deals tienen contacto y cuáles no — diagnóstico completo de 143 deals |
 | [`benchmarks.md`](benchmarks.md) | Métricas esperadas por secuencia |
 
 ---
