@@ -42,11 +42,11 @@ Me llevo algunas notas de lo que hablamos:
 
 - **Lo que más resonó:** [Insertar manualmente: ej. "la dificultad de capacitar a personal de temporada con alta rotación"]
 - **El problema central que quieren resolver:** [Insertar: ej. "reducir el tiempo de onboarding de nuevos colaboradores en piso"]
-- **Siguiente paso acordado:** [Insertar: ej. "le envío propuesta esta semana" / "agendamos demo con el equipo de RRHH"]
+- **Siguiente paso acordado:** [Insertar: ej. "te envío propuesta esta semana" / "agendamos demo con el equipo de RRHH"]
 
 ¿Lo capturé bien?
 
-Si hay algo que quiera ajustar o ampliar, me dice y con gusto.
+Si hay algo que quieras ajustar o ampliar, me dices y con gusto lo actualizo.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -64,13 +64,13 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Le comparto lo que mencioné en nuestra conversación:
+Te comparto lo que mencioné en nuestra conversación:
 
 **[Insertar recurso según industria — ver variantes abajo]**
 
 Esto da contexto de cómo funciona Wesay en la práctica con equipos similares a los de [Empresa].
 
-Si tiene preguntas después de revisarlo, con gusto las resolvemos.
+Si tienes preguntas después de revisarlo, con gusto las resolvemos.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -119,7 +119,7 @@ Hola [Nombre],
 
 Han pasado unos días desde nuestra reunión.
 
-¿Tuvo oportunidad de compartir lo que platicamos con [nombre del decision-maker / Director de RRHH / equipo de dirección]?
+¿Tuviste oportunidad de compartir lo que platicamos con [nombre del decision-maker / Director de RRHH / equipo de dirección]?
 
 Si necesitan algo más de nuestra parte para facilitar esa conversación — una presentación ejecutiva, un caso de uso más específico, números de ROI — con gusto lo preparo.
 

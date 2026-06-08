@@ -58,7 +58,7 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Le comparto un dato que aparece en casi todas las empresas con equipos operativos grandes:
+Te comparto un dato que aparece en casi todas las empresas con equipos operativos grandes:
 
 **El 70% del personal de campo, piso o ruta no completa los programas de capacitación tradicionales.** No porque no quieran aprender — sino porque los formatos (cursos de 45 minutos, plataformas de escritorio, materiales impresos) no encajan con su realidad.
 
@@ -66,7 +66,7 @@ En [Industria], esto se traduce en errores operativos, inconsistencia en el serv
 
 Wesay funciona diferente: microvideos de 3-5 minutos, desde el celular, con seguimiento en tiempo real para los líderes.
 
-¿Le cuento cómo lo hemos implementado en empresas similares a [Empresa]?
+¿Te cuento cómo lo hemos implementado en empresas similares a [Empresa]?
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -75,21 +75,21 @@ Directora de Operaciones · Wesay
 
 ## Email 3 — CTA directa
 
-**Asunto (opción A):** 15 minutos — le muestro algo concreto
+**Asunto (opción A):** 15 minutos — te muestro algo concreto
 **Asunto (opción B):** Una demo rápida vale más que esta descripción
-**Preview text:** Sin presentaciones largas. Le enseño el producto en funcionamiento real.
+**Preview text:** Sin presentaciones largas. Te enseño el producto en funcionamiento real.
 
 ---
 
 Hola [Nombre],
 
-Le he escrito un par de veces sobre cómo Wesay ayuda a empresas como [Empresa] a capacitar equipos operativos de forma efectiva.
+Te he escrito un par de veces sobre cómo Wesay ayuda a empresas como [Empresa] a capacitar equipos operativos de forma efectiva.
 
-Quiero ser directo: 15 minutos en videollamada y le muestro la plataforma funcionando con un caso real de [Industria].
+Quiero ser directa: 15 minutos en videollamada y te muestro la plataforma funcionando con un caso real de [Industria].
 
-Sin pitch largo. Sin presentación de 40 slides. Solo le enseño el producto y usted decide si tiene sentido para [Empresa].
+Sin pitch largo. Sin presentación de 40 slides. Solo te enseño el producto y tú decides si tiene sentido para [Empresa].
 
-¿Esta semana o la siguiente le funciona?
+¿Esta semana o la siguiente te funciona?
 
 [Enlace de agenda aquí]
 
@@ -108,16 +108,16 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Le he escrito varias veces sin respuesta — lo entiendo perfectamente. Las agendas operativas no dan respiro.
+Te he escrito varias veces sin respuesta — lo entiendo perfectamente. Las agendas operativas no dan respiro.
 
-Si la capacitación de equipos no es una prioridad ahora mismo, no hay problema. Le dejo este mensaje por si en los próximos meses el tema sube en la lista.
+Si la capacitación de equipos no es una prioridad ahora mismo, no hay problema. Te dejo este mensaje por si en los próximos meses el tema sube en la lista.
 
 Cuando sea el momento, aquí estamos.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
 
-*PD: Si prefiere que no le escriba más, me puede decir y con gusto lo respeto.*
+*PD: Si prefieres que no te escriba más, me dices y con gusto lo respeto.*
 
 ---
 

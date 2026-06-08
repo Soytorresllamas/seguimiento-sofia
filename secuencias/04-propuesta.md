@@ -29,16 +29,16 @@
 ## Email 1 — Confirmar recepción
 
 **Timing:** 2 días después de enviar la propuesta
-**Asunto:** La propuesta que le compartí — ¿tiene preguntas?
+**Asunto:** La propuesta que te compartí — ¿tienes preguntas?
 **Preview text:** Solo quiero confirmar que llegó bien y que no quedó ninguna duda sin resolver.
 
 ---
 
 Hola [Nombre],
 
-Le escribo para confirmar que recibió la propuesta que le mandé el [Fecha].
+Te escribo para confirmar que recibiste la propuesta que te mandé el [Fecha].
 
-¿Tuvo oportunidad de revisarla? Si tiene alguna pregunta sobre los alcances, el modelo de implementación o los costos, con gusto la resuelvo.
+¿Tuviste oportunidad de revisarla? Si tienes alguna pregunta sobre los alcances, el modelo de implementación o los costos, con gusto la resuelvo.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -48,7 +48,7 @@ Directora de Operaciones · Wesay
 ## Email 2 — ROI e impacto medible
 
 **Timing:** Día 6 post-propuesta
-**Asunto (opción A):** Un número que probablemente le interesa ver
+**Asunto (opción A):** Un número que probablemente te interesa ver
 **Asunto (opción B):** Lo que les costaría no resolver esto
 **Preview text:** No es un argumento de venta. Es un cálculo que vale la pena hacer.
 
@@ -56,13 +56,13 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Mientras espero su respuesta sobre la propuesta, quiero compartirle un ejercicio que hacemos con nuestros clientes antes de arrancar:
+Mientras espero tu respuesta sobre la propuesta, quiero compartirte un ejercicio que hacemos con nuestros clientes antes de arrancar:
 
 **Costo de no capacitar vs. costo de hacerlo bien:**
 
 En una empresa con [X] colaboradores operativos, si el 30% de ellos comete un error evitable por falta de entrenamiento al mes, y cada error cuesta en promedio [Y] en reprocesos, mermas o quejas de cliente — el costo anual supera con creces la inversión en un programa de microlearning.
 
-No le pido que haga el cálculo ahora. Pero si quiere que lo hagamos juntos con los números de [Empresa], con gusto coordinamos una llamada rápida.
+No te pido que hagas el cálculo ahora. Pero si quieres que lo hagamos juntos con los números de [Empresa], con gusto coordinamos una llamada rápida.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -80,18 +80,18 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Llevo unos días esperando su respuesta sobre la propuesta y quiero ser directa.
+Llevo unos días esperando tu respuesta sobre la propuesta y quiero ser directa.
 
 Cuando hay silencio en este punto, usualmente es por alguna de estas razones:
 
 - El precio no encaja con el presupuesto actual
-- Necesita aprobación de alguien más antes de avanzar
+- Necesitas aprobación de alguien más antes de avanzar
 - El timing no es el adecuado para implementar ahora
 - Hay una duda técnica u operativa que no resolvimos
 
-¿Cuál aplica en su caso?
+¿Cuál aplica en tu caso?
 
-Con esa información puedo ayudarle mejor — o ajustar la propuesta si hace falta.
+Con esa información puedo ayudarte mejor — o ajustar la propuesta si hace falta.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -109,7 +109,7 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Le he escrito varias veces desde que envié la propuesta y entiendo que la agenda operativa no siempre da espacio.
+Te he escrito varias veces desde que envié la propuesta y entiendo que la agenda operativa no siempre da espacio.
 
 Solo necesito saber una cosa: ¿seguimos adelante con [Empresa] o es mejor retomarlo en otro momento?
 

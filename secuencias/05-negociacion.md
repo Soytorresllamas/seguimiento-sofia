@@ -32,7 +32,7 @@
 ## Email 1 — Clarificar lo que falta
 
 **Timing:** Día 2 desde que el deal entró a Negociación
-**Asunto (opción A):** Para cerrar esto, ¿qué falta de su lado?
+**Asunto (opción A):** Para cerrar esto, ¿qué falta de tu lado?
 **Asunto (opción B):** Retomando nuestra conversación sobre [Empresa]
 **Preview text:** Quiero asegurarme de que no hay ningún pendiente de nuestra parte.
 
@@ -42,13 +42,13 @@ Hola [Nombre],
 
 Retomo nuestra conversación sobre el programa de capacitación para [Empresa].
 
-Quiero asegurarme de que tenemos todo lo que necesitan para tomar la decisión:
+Quiero asegurarme de que tienes todo lo que necesitas para tomar la decisión:
 
 - ¿Hay algún punto de la propuesta que necesite ajuste?
 - ¿Falta información técnica sobre la implementación?
 - ¿Hay alguien más en [Empresa] que necesite estar en la conversación?
 
-Dígame qué falta de nuestro lado y lo resuelvo esta semana.
+Dime qué falta de nuestro lado y lo resuelvo esta semana.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -66,9 +66,9 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-En nuestra última conversación mencionaron [insertar objeción: ej. "el presupuesto es ajustado para Q3" / "necesitan ver cómo funciona antes de comprometerse" / "hay dudas sobre la implementación técnica"].
+En nuestra última conversación mencionaste [insertar objeción: ej. "el presupuesto es ajustado para Q3" / "necesitan ver cómo funciona antes de comprometerse" / "hay dudas sobre la implementación técnica"].
 
-Quiero darle una respuesta concreta:
+Quiero darte una respuesta concreta:
 
 **[Insertar respuesta a la objeción — ver variantes abajo]**
 
@@ -94,7 +94,7 @@ Directora de Operaciones · Wesay
 >
 > Sin costo de implementación. Con acceso completo a la plataforma y acompañamiento semanal de nuestro equipo. Al final de los 30 días, [Empresa] decide si continúa con el programa completo.
 >
-> ¿Quiere que lo estructuremos así?
+> ¿Quieres que lo estructuremos así?
 
 ### Si la objeción es implementación técnica
 > La implementación de Wesay no requiere integración con sistemas propios ni infraestructura adicional. Los colaboradores acceden desde su celular personal o corporativo con solo un enlace o descarga de la app.
@@ -106,7 +106,7 @@ Directora de Operaciones · Wesay
 ### Si la objeción es aprobación interna
 > Entiendo que la decisión requiere pasar por [Director General / Dirección de RR.HH. / Comité de compras].
 >
-> ¿Le sería útil que le preparara un resumen ejecutivo de una página con los puntos clave — costo, alcance, beneficios esperados y casos de referencia — para facilitar esa aprobación interna?
+> ¿Te sería útil que te preparara un resumen ejecutivo de una página con los puntos clave — costo, alcance, beneficios esperados y casos de referencia — para facilitar esa aprobación interna?
 >
 > Con gusto lo preparo esta semana.
 
@@ -116,20 +116,20 @@ Directora de Operaciones · Wesay
 
 **Timing:** Día 14
 **Asunto (opción A):** Las condiciones de la propuesta vencen el [Fecha]
-**Asunto (opción B):** Necesito una respuesta esta semana para reservar su lugar
+**Asunto (opción B):** Necesito una respuesta esta semana para reservar tu lugar
 **Preview text:** Sin presión artificial — hay una razón real para la fecha.
 
 ---
 
 Hola [Nombre],
 
-Le escribo porque las condiciones actuales de la propuesta — precio, período de implementación y disponibilidad de nuestro equipo — están vigentes hasta el **[Fecha: aprox. 7 días desde este email]**.
+Te escribo porque las condiciones actuales de la propuesta — precio, período de implementación y disponibilidad de nuestro equipo — están vigentes hasta el **[Fecha: aprox. 7 días desde este email]**.
 
 Después de esa fecha, no puedo garantizar las mismas condiciones porque tenemos otros proyectos entrando en agenda.
 
 Si [Empresa] quiere avanzar con esto, necesito saberlo esta semana.
 
-Si el timing no es el correcto, también me dice y lo dejamos para cuando sea el momento adecuado — sin problema.
+Si el timing no es el correcto, también me dices y lo dejamos para cuando sea el momento adecuado — sin problema.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay

@@ -25,8 +25,8 @@
 
 **Timing:** 48 horas antes de la reunión
 **Asunto (opción A):** Confirmado: [Fecha] a las [Hora] — y algo para aprovechar mejor el tiempo
-**Asunto (opción B):** Nos vemos el [Fecha] — le mando algo antes
-**Preview text:** Tres preguntas que me ayudan a personalizar lo que le voy a mostrar.
+**Asunto (opción B):** Nos vemos el [Fecha] — te mando algo antes
+**Preview text:** Tres preguntas que me ayudan a personalizar lo que te voy a mostrar.
 
 ---
 
@@ -34,13 +34,13 @@ Hola [Nombre],
 
 Confirmado: nos vemos el **[Fecha] a las [Hora]**.
 
-Para aprovechar bien los 30 minutos, le comparto tres preguntas que me gustaría que pensara antes de nuestra conversación — no necesita enviarme las respuestas, solo tenerlas en mente:
+Para aprovechar bien los 30 minutos, te comparto tres preguntas que me gustaría que pensaras antes de nuestra conversación — no necesitas enviarme las respuestas, solo tenerlas en mente:
 
 1. ¿Cuántas personas tienen en equipos operativos (piso, campo, ruta)?
 2. ¿Qué métodos usan hoy para capacitarlos y qué tan satisfechos están con los resultados?
 3. ¿Cuál es el mayor dolor que quieren resolver en los próximos 6 meses?
 
-Con eso puedo mostrarle exactamente lo que es relevante para [Empresa], sin dar vueltas.
+Con eso puedo mostrarte exactamente lo que es relevante para [Empresa], sin dar vueltas.
 
 Nos vemos el [Fecha].
 
@@ -59,7 +59,7 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Mañana a las **[Hora]** — aquí el enlace por si lo necesita: [Enlace de videollamada]
+Mañana a las **[Hora]** — aquí el enlace por si lo necesitas: [Enlace de videollamada]
 
 Mientras tanto, un dato que encontré pensando en [Empresa]:
 

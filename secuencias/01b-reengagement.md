@@ -30,14 +30,14 @@
 ## Email 1 — Re-apertura sin presión
 
 **Asunto (opción A):** ¿Todavía tiene sentido hablar, [Nombre]?
-**Asunto (opción B):** Han pasado unas semanas desde que le escribí
+**Asunto (opción B):** Han pasado unas semanas desde que te escribí
 **Preview text:** Sin compromiso. Solo quiero saber si el momento cambió.
 
 ---
 
 Hola [Nombre],
 
-Le escribí hace unas semanas sobre cómo Wesay apoya la capacitación de equipos operativos en empresas como [Empresa].
+Te escribí hace unas semanas sobre cómo Wesay apoya la capacitación de equipos operativos en empresas como [Empresa].
 
 No tuve respuesta, y está bien — los tiempos cambian.
 
@@ -60,11 +60,11 @@ Directora de Operaciones · Wesay
 
 Hola [Nombre],
 
-Desde que le escribí por última vez hemos implementado Wesay en algunos equipos de [Industria similar] y quería compartirle un aprendizaje:
+Desde que te escribí por última vez hemos implementado Wesay en algunos equipos de [Industria similar] y quería compartirte un aprendizaje:
 
 **El mayor obstáculo no es la resistencia al aprendizaje — es el formato.** Cuando el contenido llega en el celular del colaborador, en menos de 5 minutos, la tasa de completación sube de un promedio de 30% a más del 80%.
 
-Si en [Empresa] esto resuena, con gusto le cuento los detalles.
+Si en [Empresa] esto resuena, con gusto te cuento los detalles.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
@@ -85,9 +85,9 @@ Este es mi último mensaje para no ser intrusiva.
 
 Si la capacitación operativa de [Empresa] no es una prioridad en este momento, lo entiendo perfectamente.
 
-Si en los próximos meses el tema vuelve a la mesa, búsqueme. Con gusto retomamos.
+Si en los próximos meses el tema vuelve a la mesa, búscame. Con gusto retomamos.
 
-Muchas gracias por su tiempo.
+Muchas gracias por tu tiempo.
 
 Sofía Sánchez
 Directora de Operaciones · Wesay
