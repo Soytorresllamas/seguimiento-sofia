@@ -1,4 +1,4 @@
-# Wesay — Modelo de seguimiento comercial
+Modelo de seguimiento comercial
 ### Correos de Sofía Sánchez · Directora de Operaciones
 
 Este repositorio contiene el modelo completo de automatización de correos de seguimiento para el pipeline comercial de Wesay. Los templates están listos para configurarse como **HubSpot Sequences**.
