@@ -17,7 +17,7 @@
 
 ## 🔴 Enviar ahora — 9 emails
 
-### Negociación → Seq 05, Email 2
+### [Seq 05](secuencias/05-negociacion) · Email 2 — Responder la objeción
 
 Sanborns y Fraiche llevan 7 días desde el último contacto (10 junio). El Email 2 de Seq 05 vence hoy.
 
@@ -72,7 +72,7 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Propuesta Enviada → Seq 04, Email 2 *(1 día de retraso — enviar hoy)*
+### [Seq 04](secuencias/04-propuesta) · Email 2 *(1 día de retraso — enviar hoy)*
 
 Qualitas y Trato Grupo Grunenthal llevan 7 días desde el último contacto (10 junio). El Email 2 de Seq 04 venció ayer.
 
@@ -120,7 +120,7 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Demostración Programada + Contacto Establecido → Seq 03, Email 3
+### [Seq 03](secuencias/03-post-reunion) · Email 3 — "¿Pudiste compartirlo?"
 
 Estos deals tuvieron actividad el 10 de junio. El Email 3 de Seq 03 (Día 7: "¿Pudiste compartirlo?") vence hoy.
 
@@ -294,7 +294,7 @@ Estos deals requieren una decisión de Sofía, no un email automático.
 
 ---
 
-### Draft de cierre para Cerebrum *(Seq 04, Email 4 — 103 días sin respuesta)*
+### Draft de cierre para Cerebrum *([Seq 04](secuencias/04-propuesta) Email 4 — 103 días sin respuesta)*
 
 **Asunto:** ¿Seguimos o lo dejamos para otro momento?
 **Preview:** Sin presión. Solo necesito saber para organizar la agenda.
@@ -344,8 +344,12 @@ Antes de asignar cualquier secuencia, estos deals necesitan que se les asocie un
 
 | Deal | Etapa | Cuándo | Email |
 |---|---|---|---|
-| Operadora Uno | Demo Programada | Jue 19 jun | Seq 03, Email 3 |
-| Central Holding | Prospecto | Jue 18 jun | Seq 01b, Email 2 (semana 7) |
-| Sahuayo | Prospecto | Jue 18 jun | Seq 01b, Email 2 (semana 7) |
-| Sanborns | Negociación | Mié 24 jun | Seq 05, Email 3 — cierre con fecha límite |
-| Fraiche | Negociación | Mié 24 jun | Seq 05, Email 3 — cierre con fecha límite |
+| Operadora Uno | Demo Programada | Jue 19 jun | [Seq 03](secuencias/03-post-reunion) Email 3 |
+| Central Holding | Prospecto | Jue 18 jun | [Seq 01b](secuencias/01b-reengagement) Email 2 (semana 7) |
+| Sahuayo | Prospecto | Jue 18 jun | [Seq 01b](secuencias/01b-reengagement) Email 2 (semana 7) |
+| Sanborns | Negociación | Lun 24 jun | [Seq 05](secuencias/05-negociacion) Email 3 — cierre con fecha límite |
+| Fraiche | Negociación | Lun 24 jun | [Seq 05](secuencias/05-negociacion) Email 3 — cierre con fecha límite |
+
+---
+
+← [Volver al índice](README)

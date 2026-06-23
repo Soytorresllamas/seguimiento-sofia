@@ -1,0 +1,10 @@
+title: Seguimiento Sofia — Wesay
+description: Modelo de seguimiento comercial · Correos por etapa de pipeline
+theme: minima
+lang: es
+
+minima:
+  date_format: "%d %b %Y"
+
+plugins:
+  - jekyll-feed

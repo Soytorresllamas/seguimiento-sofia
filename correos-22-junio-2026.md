@@ -5,10 +5,10 @@
 
 ## Qué pasó desde el 17 de junio
 
-El martes 17 Sofía envió **12 de los 13 emails recomendados**. Se confirma por las marcas de tiempo en `notes_last_updated`.
+El martes 17 Sofía envió **12 de los 13 emails recomendados** (confirmado por `notes_last_updated` en HubSpot).
 
 **Lo que SÍ se envió el 17 de junio:**
-Sanborns · Fraiche · Qualitas · Trato Grupo Grunenthal · Industrias Tebi · Infra · ACCOR · Ransa · Grupo Presidente · Trato Tok Tok · Lindcorp-Aruma · GFH *(este último no estaba en el plan — Sofía lo contactó por cuenta propia)*
+Sanborns · Fraiche · Qualitas · Trato Grupo Grunenthal · Industrias Tebi · Infra · ACCOR · Ransa · Grupo Presidente · Trato Tok Tok · Lindcorp-Aruma · GFH *(este último Sofía lo contactó por cuenta propia)*
 
 **Lo que NO se envió y sigue pendiente:**
 - Viva Aerobus *(18 días sin contacto, último: 4 jun)*
@@ -32,12 +32,12 @@ Sanborns · Fraiche · Qualitas · Trato Grupo Grunenthal · Industrias Tebi · 
 
 ---
 
-### Propuesta Enviada → Seq 04, Email 3 · "¿Hay algo que no cuadra?"
+### [Seq 04](secuencias/04-propuesta) · Email 3 — "¿Hay algo que no cuadra?"
 *Day 12 desde el 10 de junio. Vence hoy.*
 
 ---
 
-**QUALITAS** · Propuesta Enviada · 1 contacto
+**[QUALITAS](https://app.hubspot.com/contacts/50490089/record/0-3/43759209646)** · Propuesta Enviada · 1 contacto
 
 **Asunto (A):** ¿Hay algo que no cuadra en la propuesta?
 **Asunto (B):** Quiero asegurarme de que tiene sentido para Qualitas
@@ -65,7 +65,7 @@ Directora de Operaciones · Wesay
 
 ---
 
-**TRATO GRUPO GRUNENTHAL** · Propuesta Enviada · 2 contactos
+**[TRATO GRUPO GRUNENTHAL](https://app.hubspot.com/contacts/50490089/record/0-3/43765875329)** · Propuesta Enviada · 2 contactos
 
 **Asunto (A):** ¿Algo que no cuadra en la propuesta, [Nombre]?
 **Asunto (B):** Una pregunta directa antes de cerrar el ciclo
@@ -88,12 +88,12 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Demo Programada → Seq 03, Email 2 · "Recurso relevante"
+### [Seq 03](secuencias/03-post-reunion) · Email 2 — Recurso relevante
 *Gabor tuvo actividad el 19 de junio. Day 3 = hoy.*
 
 ---
 
-**GABOR** · Demostración Programada · 2 contactos
+**[GABOR](https://app.hubspot.com/contacts/50490089/record/0-3/59680308857)** · Demostración Programada · 2 contactos
 
 **Asunto:** El caso que mencioné en nuestra reunión del jueves
 **Preview:** Un ejemplo concreto de lo que funciona en una empresa similar.
@@ -115,12 +115,12 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Demo Programada → Seq 03, Email 3 · RETRASADO 3 días
+### [Seq 03](secuencias/03-post-reunion) · Email 3 — RETRASADO 3 días
 *Operadora Uno: último contacto 12 de junio. Email 3 venció el 19 jun.*
 
 ---
 
-**OPERADORA UNO** · Demostración Programada · 1 contacto
+**[OPERADORA UNO](https://app.hubspot.com/contacts/50490089/record/0-3/43767733328)** · Demostración Programada · 1 contacto
 
 **Asunto:** ¿Cómo va la conversación interna en Operadora Uno?
 **Preview:** Solo quiero saber si hay algo más de nuestra parte para avanzar.
@@ -140,12 +140,12 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Primera Cita → Re-activación pendiente desde el 17 jun
+### [Seq 02](secuencias/02-pre-reunion) / Re-activación — Pendiente desde el 17 jun
 *Viva Aerobus: 18 días sin contacto. No se envió el martes.*
 
 ---
 
-**VIVA AEROBUS** · Primera Cita · 1 contacto
+**[VIVA AEROBUS](https://app.hubspot.com/contacts/50490089/record/0-3/43754230894)** · Primera Cita · 1 contacto
 
 **Asunto:** Retomando — ¿cómo va la conversación en Viva Aerobus?
 **Preview:** Quedé a debo en hacer seguimiento. ¿Siguen evaluando?
@@ -167,12 +167,12 @@ Directora de Operaciones · Wesay
 
 ---
 
-### Propuesta Enviada → Seq 04, Email 4 · CIERRE DEFINITIVO
-*Cerebrum: 108 días sin respuesta. No se envió el martes.*
+### [Seq 04](secuencias/04-propuesta) · Email 4 — Cierre definitivo
+*Cerebrum: 108 días sin respuesta. Pendiente desde el 17 jun.*
 
 ---
 
-**CEREBRUM** · Propuesta Enviada · 1 contacto
+**[CEREBRUM](https://app.hubspot.com/contacts/50490089/record/0-3/54609604472)** · Propuesta Enviada · 1 contacto
 
 **Asunto:** ¿Seguimos o lo dejamos para otro momento?
 **Preview:** Sin presión. Solo necesito saber para organizar la agenda.
@@ -192,40 +192,40 @@ Directora de Operaciones · Wesay
 
 ---
 
-## 🟡 Evaluar esta semana — Seq 03 completa, sin respuesta
+## 🟡 Evaluar esta semana — [Seq 03](secuencias/03-post-reunion) completa, sin respuesta
 
-Estos 5 deals recibieron el Email 3 de Seq 03 el martes 17. No hubo respuesta. La secuencia post-reunión está terminada.
+Estos 5 deals recibieron el Email 3 el martes 17. Sin respuesta. La secuencia post-reunión está terminada.
 
-| Deal | Etapa actual | Días sin respuesta | Siguiente paso lógico |
-|---|---|---|---|
-| **Ransa** | Contacto Establecido | 5 días | ¿Se puede proponer agenda de demo? → Seq 04 Email 1 si se agenda |
-| **ACCOR** | Demo Programada | 5 días | ¿Hay propuesta lista para enviar? → Iniciar Seq 04 |
-| **Infra** | Demo Programada | 5 días | ¿Hay propuesta lista para enviar? → Iniciar Seq 04 |
-| **Grupo Presidente** | Demo Programada | 5 días | ¿Hay propuesta lista para enviar? → Iniciar Seq 04 |
-| **Industrias Tebi** | Demo Programada | 5 días | ¿Hay propuesta lista para enviar? → Iniciar Seq 04 |
-
-**Recomendación:** Si hay propuesta lista para alguno de estos deals, enviarla esta semana e iniciar Seq 04 (Email 1: "¿Recibiste la propuesta?"). Si no hay propuesta lista, esperar hasta el lunes 29 y decidir si re-enganchar o cerrar.
+| Deal | HubSpot | Etapa | Días sin respuesta | Siguiente paso |
+|---|---|---|---|---|
+| Ransa | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/54101267723) | Contacto Establecido | 5 días | ¿Agendar demo? → [Seq 04](secuencias/04-propuesta) Email 1 si se cierra |
+| ACCOR | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/51446627429) | Demo Programada | 5 días | ¿Propuesta lista? → Iniciar [Seq 04](secuencias/04-propuesta) |
+| Infra | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/55922587423) | Demo Programada | 5 días | ¿Propuesta lista? → Iniciar [Seq 04](secuencias/04-propuesta) |
+| Grupo Presidente | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/45092444971) | Demo Programada | 5 días | ¿Propuesta lista? → Iniciar [Seq 04](secuencias/04-propuesta) |
+| Industrias Tebi | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43768042819) | Demo Programada | 5 días | ¿Propuesta lista? → Iniciar [Seq 04](secuencias/04-propuesta) |
 
 ---
 
-## ⚫ Decisión manual — Decidir: reactivar o cerrar
+## ⚫ Decisión manual — Reactivar o cerrar
 
-| Deal | Etapa | Sin contacto desde | Situación |
-|---|---|---|---|
-| **Tim Hortons** | Primera Cita | 2 mar (112 días) | Nunca avanzó post-primera cita. ¿Vale la pena reactivar? |
-| **Grupo Hotelero Santa Fe** | Primera Cita | 2 mar (112 días) | Mismo caso |
-| **Apotex** | Demo Programada | 2 mar (112 días) | ¿Hubo demo? ¿Vale la pena insistir? |
-
-Para los tres: si Sofía decide reactivar, usar el draft de "¿Sigue vigente la conversación?" del archivo [`secuencias/01b-reengagement.md`](../secuencias/01b-reengagement.md). Si decide cerrar, mover a Closed Lost en HubSpot con nota "Sin respuesta — retomar Q4 2026".
+| Deal | HubSpot | Etapa | Sin contacto desde | Opciones |
+|---|---|---|---|---|
+| Tim Hortons | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43759364496) | Primera Cita | 2 mar (112 días) | [Seq 01b Email 1](secuencias/01b-reengagement) o Closed Lost |
+| Grupo Hotelero Santa Fe | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43765410850) | Primera Cita | 2 mar (112 días) | [Seq 01b Email 1](secuencias/01b-reengagement) o Closed Lost |
+| Apotex | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/45664272537) | Demo Programada | 2 mar (112 días) | [Seq 01b Email 1](secuencias/01b-reengagement) o Closed Lost |
 
 ---
 
 ## 📅 Próximos vencimientos
 
-| Fecha | Deal | Email |
-|---|---|---|
-| Lun 24 jun | **Sanborns** | Seq 05, Email 3 — cierre con fecha límite |
-| Lun 24 jun | **Fraiche** | Seq 05, Email 3 — cierre con fecha límite |
-| Mié 24 jun | **Qualitas** | Seq 04, Email 4 si no responde hoy |
-| Mié 24 jun | **Trato Grupo Grunenthal** | Seq 04, Email 4 si no responde hoy |
-| Jue 25 jun | **Gabor** | Seq 03, Email 3 — "¿Pudiste compartirlo?" |
+| Fecha | Deal | HubSpot | Email |
+|---|---|---|---|
+| Lun 24 jun | Sanborns | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43769924668) | [Seq 05](secuencias/05-negociacion) Email 3 — cierre con fecha límite |
+| Lun 24 jun | Fraiche | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43764504656) | [Seq 05](secuencias/05-negociacion) Email 3 — cierre con fecha límite |
+| Mié 24 jun | Qualitas | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43759209646) | [Seq 04](secuencias/04-propuesta) Email 4 si no responde hoy |
+| Mié 24 jun | Trato Grupo Grunenthal | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/43765875329) | [Seq 04](secuencias/04-propuesta) Email 4 si no responde hoy |
+| Jue 25 jun | Gabor | [→ abrir](https://app.hubspot.com/contacts/50490089/record/0-3/59680308857) | [Seq 03](secuencias/03-post-reunion) Email 3 — "¿Pudiste compartirlo?" |
+
+---
+
+← [Volver al índice](README)
